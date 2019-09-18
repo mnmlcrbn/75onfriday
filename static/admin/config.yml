@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: 75onfriday
+  repo: mnmlcrbn/75onfriday
 
 media_folder: static/assets
 public_folder: assets
